@@ -1,3 +1,5 @@
 Sample text line 1
 SAmple text line 2
 Sample text line 3
+
+This line was later added to the file by its owner.
